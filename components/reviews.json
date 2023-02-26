@@ -1,0 +1,84 @@
+{
+  "school_review": [
+    {
+      "id": 1,
+      "content": "Okulumuz harika bir öğrenme ortamı sunuyor!"
+    },
+    {
+      "id": 2,
+      "content": "Öğretmenlerimiz gerçekten harika ve öğrencilerle harika bir iletişim kuruyorlar."
+    },
+    {
+      "id": 3,
+      "content": "Okulumuzda çeşitli kulüpler ve etkinlikler mevcut ve herkes katılmak için davetlidir."
+    },
+    {
+      "id": 4,
+      "content": "Kampüsümüz temiz, düzenli ve bakımlı."
+    },
+    {
+      "id": 5,
+      "content": "Öğrencilerin fikirleri dinleniyor ve okulun yönetimi öğrencilerin görüşlerini dikkate alıyor."
+    },
+    {
+      "id": 6,
+      "content": "Okulumuzda eğlenceli bir atmosfer var ve öğrenciler kendilerini rahat hissediyorlar."
+    },
+    {
+      "id": 7,
+      "content": "Öğrencilerimiz yaratıcı ve özgür düşünebilen gençler olarak yetişiyorlar."
+    },
+    {
+      "id": 8,
+      "content": "Okulumuzda öğrencilerin kişisel gelişimine önem veriliyor."
+    },
+    {
+      "id": 9,
+      "content": "Sınıflarımız modern, rahat ve teknolojik açıdan donanımlı."
+    },
+    {
+      "id": 10,
+      "content": "Öğrencilerimiz başarıya teşvik ediliyor ve bu da öğrencilerin kendilerine güvenlerinin artmasını sağlıyor."
+    },
+    {
+      "id": 11,
+      "content": "Okulumuzda öğrencilerin kültürel farkındalıkları geliştiriliyor."
+    },
+    {
+      "id": 12,
+      "content": "Öğrencilerimiz sosyal becerilerini geliştiriyor ve insanlarla iyi iletişim kurabilme becerileri kazanıyorlar."
+    },
+    {
+      "id": 13,
+      "content": "Öğrencilerimize öğrenme sürecinde destek sağlanıyor ve öğrencilerin her zaman başarılı olmaları hedefleniyor."
+    },
+    {
+      "id": 14,
+      "content": "Okulumuzda öğrencilerin fiziksel sağlığına da önem veriliyor."
+    },
+    {
+      "id": 15,
+      "content": "Öğretmenlerimiz öğrencilerle birlikte çalışarak öğrenme sürecini daha etkili hale getiriyorlar."
+    },
+    {
+      "id": 16,
+      "content": "Okulumuzda öğrencilerin liderlik becerileri geliştiriliyor ve öğrencilerin liderlik rollerinde kendilerini rahat hissetmeleri sağlanıyor."
+    },
+    {
+      "id": 17,
+      "content": "Okulumuzda eşitlik ve adalet kavramlarına önem veriliyor ve her öğrencinin eşit haklara sahip olduğu sağlanıyor."
+    },
+    {
+      "id": 18,
+      "content": "Okulumuzda eşitlik ve adalet kavramlarına önem veriliyor ve her öğrencinin eşit haklara sahip olduğu sağlanıyor."
+    },
+    {
+      "id": 19,
+      "content": "Okulumuzda öğrencilerin özgüvenleri artıyor ve kendi fikirlerini ifade etmek konusunda daha cesaretli hale geliyorlar."
+    },
+    {
+      "id": 20,
+      "content": "Okulumuzun yönetimi, öğretmenleri ve personeli öğrencilerin her zaman yanında ve destekleyicidir."
+    }
+  ]
+}
