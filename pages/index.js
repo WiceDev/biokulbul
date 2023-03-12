@@ -1,7 +1,7 @@
 import Cards from "@/components/Cards"
 import Filter from "@/components/Filter"
 import Hero from "@/components/Hero"
-import Popular from "@/components/Popular"
+import List from "@/components/List"
 import PopUp from "@/components/PopUp"
 import React from "react"
 import Dropdown from "./Dropdown"
@@ -10,7 +10,7 @@ function index({schools}) {
 	return (
 		<div className="bg-slate-100">
 			<PopUp />
-			<Popular popular={schools.slice(0, 20)} />
+			<List popular={schools.slice(0, 20)} />
 			<Cards />
 		</div>
 	)

@@ -1,7 +1,6 @@
 import React from "react"
 
 function school({school}) {
-	console.log(school)
 	return (
 		<div className="w-full flex items-center justify-center">
 			<div className="max-w-7xl w-full pt-10">

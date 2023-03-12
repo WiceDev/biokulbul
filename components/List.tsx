@@ -12,7 +12,7 @@ interface item {
 	type: number
 }
 
-function Popular({popular}) {
+function List({popular}) {
 	const router = useRouter()
 	return (
 		<div className="w-full flex p-5 xl:p-0 items-center justify-center mt-20">
@@ -42,7 +42,7 @@ function Popular({popular}) {
 									<h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 line-clamp-2">{item.name}</h5>
 									<div className="mb-3 font-normal text-xs text-gray-600 ">
 										<h3 className="font-medium my-1">Misafir Yorumu</h3>
-										{school_review[idx].content}
+										{/* {school_review[idx].content} */}
 									</div>
 									<a
 										href="#"
@@ -70,4 +70,4 @@ function Popular({popular}) {
 	)
 }
 
-export default Popular
+export default List

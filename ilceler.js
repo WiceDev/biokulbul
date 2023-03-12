@@ -18,5 +18,4 @@ schools.forEach((school) => {
 Object.keys(ilceler).forEach((ilce) => {
 	ilceler[ilce] = [...new Set(ilceler[ilce])]
 })
-console.log(ilceler)
 fs.writeFileSync("./ilceler.json", JSON.stringify(ilceler))
